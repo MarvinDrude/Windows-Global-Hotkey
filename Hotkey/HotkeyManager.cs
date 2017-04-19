@@ -7,7 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PixiColor.Base.Hotkey {
+namespace Base.Hotkeys {
     public class HotkeyManager {
 
         public Dictionary<ushort, HotkeyAction> Hotkeys { get; }
