@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PixiColor.Base.Hotkey {
+namespace Base.Hotkeys {
     public class HotkeyAction {
 
         public Hotkey Hotkey { get; set; }
