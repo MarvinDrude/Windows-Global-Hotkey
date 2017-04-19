@@ -3,7 +3,7 @@ Easy way of registering and unregistering global hotkeys for you c# program.
 
 Usage (Change Job Enum to your needs):
 
-´´´C#
+```C#
 
 HotkeyManager hm = new HotkeyManager();
 
@@ -24,4 +24,4 @@ hm.UnregisterHotkey(Job.Save);
 
 hm.UnregisterAllHotkeys();
 
-´´´
+```
