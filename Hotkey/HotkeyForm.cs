@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PixiColor.Base.Hotkey {
+namespace Base.Hotkeys {
     public class HotkeyForm : Form {
 
         public event EventHandler<HotkeyEventArgs> HotkeyPressed;
